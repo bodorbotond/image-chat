@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+#ProfileContainer
+{
+	width: 70%;
+}
+
+#AboutProfile
+{
+	float: right;
+}
+
+#ProfilePicture img
+{
+	height: 400px;
+	width: 500px;
+}

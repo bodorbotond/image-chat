@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.Friend
+{
+	margin: 0.5em;
+	width: 130px;
+	height: 120px;
+	display: inline-block;
+	text-align: center;
+}
+
+.Friend img
+{
+	width: 100%;
+	height: 80%;
+}
+
